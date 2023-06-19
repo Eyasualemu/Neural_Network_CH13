@@ -44,6 +44,10 @@ Create a deep neural network by assigning the number of input features, the numb
 •	Use different activation functions for the hidden layers.
 
 •	Add to or reduce the number of epochs in the training regimen.
+Alternative 1
+![Alt text](image-2.png)
+Alternative 2
+![Alt text](image-1.png)
 
 ![image](https://github.com/Eyasualemu/Neural_Network_CH13/assets/44585226/100387df-0e98-451f-936d-5bd879bf63d2)
 
