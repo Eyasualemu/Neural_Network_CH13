@@ -1,0 +1,25 @@
+commit b1967aaa716075893211d9bf0e2f040ddc27e63f
+Author: Eyasualemu <44585226+Eyasualemu@users.noreply.github.com>
+Date:   Mon Jun 19 00:44:25 2023 -0400
+
+    Update README.md
+    
+    Read me file added
+
+commit 7346ef85ee77a153d879e7b744fc52fdbe585d6b
+Author: Eyasu Bekabil Alemu <EAlemu@schools.nyc.gov>
+Date:   Mon Jun 19 00:01:23 2023 -0400
+
+    Optimize solution with .h5 file added
+
+commit eea67bdd9e26c0769982a9054fc75fa481657db8
+Author: Eyasu Bekabil Alemu <EAlemu@schools.nyc.gov>
+Date:   Sat Jun 17 13:18:49 2023 -0400
+
+    Initial given solution
+
+commit f3c92b013b1c648844bd6ebfdaf859cd5bd1a643
+Author: Eyasualemu <44585226+Eyasualemu@users.noreply.github.com>
+Date:   Sat Jun 17 13:12:14 2023 -0400
+
+    Initial commit
